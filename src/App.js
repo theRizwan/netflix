@@ -1,7 +1,8 @@
+import Jumbotron from "./components/jumbotron";
 
 function App() {
   return (
-    <h1>Hello</h1>
+    <Jumbotron />
   );
 }
 
