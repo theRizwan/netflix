@@ -1,8 +1,7 @@
-import Jumbotron from "./components/jumbotron";
-
+import JumbotronContainer from "./containers/jumbotron"
 function App() {
   return (
-    <Jumbotron />
+    <JumbotronContainer />
   );
 }
 
